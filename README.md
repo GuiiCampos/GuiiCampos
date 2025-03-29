@@ -15,7 +15,7 @@
 
 ## Techs and tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postman,ubuntu,postgres,git,cs,dotnet,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postman,ubuntu,postgres,git,cs,javascript)](https://skillicons.dev)
 
 ## Conecte-se Comigo
 
