@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-- ☄️ **Idade:** 18 anos
+- ☄️ **Idade:** 19 anos
 - 🌐 **Objetivo:** Atuar como desenvolvedor, com foco em programação.
  
 ##
